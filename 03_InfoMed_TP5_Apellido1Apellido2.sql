@@ -1,0 +1,1 @@
+SELECT * FROM medicos Where especialidad_id = 4;
